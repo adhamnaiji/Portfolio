@@ -82,7 +82,7 @@ export default function About() {
               </p>
               <h2 className="about__heading">A Computer Science Student</h2>
               <a
-                href="https://drive.google.com/file/d/18NFgC76oLb391dN9ICiLBOwoRxP-kdAR/view?usp=sharing"
+                href="https://drive.google.com/file/d/1f-oUOieHJqhnkGlacMf1jqyxW_8EPDeo/view?usp=sharing"
                 target="_blank"
                 rel="noreferrer"
               >
