@@ -82,7 +82,7 @@ export default function About() {
               </p>
               <h2 className="about__heading">A Computer Science Student</h2>
               <a
-                href="https://drive.google.com/file/d/1f-oUOieHJqhnkGlacMf1jqyxW_8EPDeo/view?usp=sharing"
+                href="https://drive.google.com/file/d/1jsHh15L1dSCu3nglqdN2WGu9dTUm9Mqy/view?usp=sharing"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -110,11 +110,26 @@ export default function About() {
               <h1 className="about__info__heading">My Skills</h1>
 
               <AboutInfoItem
-                title="FrontEnd"
-                items={['HTML', 'CSS', 'JavaScript', 'REACT']}
+                title="Web dev"
+                items={[
+                  'HTML',
+                  'CSS',
+                  'JavaScript',
+                  'php',
+                  'REACT',
+                  'Angular',
+                  'SQL',
+                  'Firebase',
+                ]}
               />
-              <AboutInfoItem title="BackEnd" items={['PHP']} />
-              <AboutInfoItem title="game dev" items={['Unity ( C# )']} />
+              <AboutInfoItem
+                title="Mobile dev"
+                items={['Android Studio(java)']}
+              />
+              <AboutInfoItem
+                title="Game dev"
+                items={['Unity ( C# )', 'Vuforia', 'Photon', 'Blender']}
+              />
             </div>
           </div>
         </div>
