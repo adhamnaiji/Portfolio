@@ -131,6 +131,68 @@ export default function About() {
                 items={['Unity ( C# )', 'Vuforia', 'Photon', 'Blender']}
               />
             </div>
+            <div className="about__info__items">
+              <div className="about__info__item">
+                <h1 className="about__info__heading">Motivation letter</h1>
+                <a
+                  href="https://drive.google.com/file/d/1LP4vUCMb0bjY9soU3nn1H5hgg-OqO0pi/view?usp=share_link"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <h1 color="red">Donwload Motivation letter</h1>
+                </a>
+              </div>
+            </div>
+            <div className="about__info__items">
+              <div className="about__info__item">
+                <h1 className="about__info__heading">cover letter</h1>
+                <a
+                  href="https://drive.google.com/file/d/1o6RMmVQORrX1BrtDiIZ9q2UVmXLsLOpR/view?usp=share_link"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <h1 color="red">Donwload cover letter</h1>
+                </a>
+              </div>
+            </div>
+            <div className="about__info__items">
+              <div className="about__info__item">
+                <h1 className="about__info__heading">Recommondation letter</h1>
+                <a
+                  href="https://drive.google.com/file/d/1ferx0K5YXoGJh4sYaI2sCSOozPmb4vkQ/view?usp=share_link"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <h1 color="red">Donwload recommandation letter 1</h1>
+                </a>
+                <a
+                  href="https://drive.google.com/file/d/1zJw3vxvhNtolBng0UWDeb2S5U0tOGefQ/view?usp=share_link"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <h1 color="red">Donwload recommandation letter 2</h1>
+                </a>
+                <a
+                  href="https://drive.google.com/file/d/1zmsz3oErIfDDPTiGIjsKHj0QOWwKG7Jb/view?usp=share_link"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <h1 color="red">Donwload recommandation letter 3</h1>
+                </a>
+              </div>
+            </div>
+            <div className="about__info__items">
+              <div className="about__info__item">
+                <h1 className="about__info__heading">List of reference</h1>
+                <a
+                  href="https://drive.google.com/file/d/1o6RMmVQORrX1BrtDiIZ9q2UVmXLsLOpR/view?usp=share_link"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <h1 color="red">Donwload list of reference</h1>
+                </a>
+              </div>
+            </div>
           </div>
         </div>
       </AboutPageStyles>
