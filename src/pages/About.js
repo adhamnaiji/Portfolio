@@ -2,6 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import AboutImg from '../assets/images/about-page-img.png';
 import AboutInfoItem from '../components/AboutInfoItem';
+import Skills from '../assets/images/skill.png';
 
 const AboutPageStyles = styled.div`
   padding: 20rem 0 10rem 0;
@@ -86,7 +87,7 @@ export default function About() {
                 target="_blank"
                 rel="noreferrer"
               >
-                <h1>Donwload Cv</h1>
+                <h1>Cv</h1>
               </a>
             </div>
             <div className="right">
@@ -139,7 +140,7 @@ export default function About() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <h1 color="red">Donwload Motivation letter</h1>
+                  <h1 color="red">Open Motivation letter</h1>
                 </a>
               </div>
             </div>
@@ -151,7 +152,7 @@ export default function About() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <h1 color="red">Donwload cover letter</h1>
+                  <h1 color="red">Open cover letter</h1>
                 </a>
               </div>
             </div>
@@ -163,21 +164,21 @@ export default function About() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <h1 color="red">Donwload recommandation letter 1</h1>
+                  <h1 color="red">Open recommandation letter 1</h1>
                 </a>
                 <a
                   href="https://drive.google.com/file/d/1zJw3vxvhNtolBng0UWDeb2S5U0tOGefQ/view?usp=share_link"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <h1 color="red">Donwload recommandation letter 2</h1>
+                  <h1 color="red">Open recommandation letter 2</h1>
                 </a>
                 <a
                   href="https://drive.google.com/file/d/1zmsz3oErIfDDPTiGIjsKHj0QOWwKG7Jb/view?usp=share_link"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <h1 color="red">Donwload recommandation letter 3</h1>
+                  <h1 color="red">Open recommandation letter 3</h1>
                 </a>
               </div>
             </div>
@@ -185,11 +186,48 @@ export default function About() {
               <div className="about__info__item">
                 <h1 className="about__info__heading">List of reference</h1>
                 <a
-                  href="https://drive.google.com/file/d/1o6RMmVQORrX1BrtDiIZ9q2UVmXLsLOpR/view?usp=share_link"
+                  href="https://drive.google.com/file/d/17SzLQbowMUZsm5yQ6I9AufdSKiubI_Q5/view?usp=share_link"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <h1 color="red">Donwload list of reference</h1>
+                  <h1 color="red">Open list of reference</h1>
+                </a>
+              </div>
+            </div>
+            <div className="right">
+              <h1 className="about__info__heading">Employability Skills</h1>
+              <img src={Skills} alt="skillss" />
+            </div>
+            <div className="about__info__items">
+              <div className="about__info__item">
+                <h1 className="about__info__heading">Certificates</h1>
+                <a
+                  href="https://drive.google.com/file/d/1rPCZpegiQk4cWde51jqJurn6Q-mSOhmF/view?usp=share_link"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <h1 color="red">Participation in robotic club</h1>
+                </a>
+                <a
+                  href="https://drive.google.com/file/d/1RN7t8SnftjMI4Q-koKE06mNKalUwqLTQ/view?usp=share_link"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <h1 color="red">Appreciation </h1>
+                </a>
+                <a
+                  href="https://drive.google.com/file/d/1UHaM3v8YDSV9GZohePF4sbfdvJXS-vjG/view?usp=share_link"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <h1 color="red">Marketing</h1>
+                </a>
+                <a
+                  href="https://drive.google.com/file/d/1W4FPVliDy6o5jXbv9tN8W0aYUuotHUF-/view?usp=share_link"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <h1 color="red">Achievement</h1>
                 </a>
               </div>
             </div>
