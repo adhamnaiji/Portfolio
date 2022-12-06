@@ -87,7 +87,14 @@ export default function About() {
                 target="_blank"
                 rel="noreferrer"
               >
-                <h1>Cv</h1>
+                <h1>Resume</h1>
+              </a>
+              <a
+                href="https://drive.google.com/file/d/1PKbklzieZcrjgenIk4XrL59kFA0xJlER/view?usp=share_link"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <h1>video Resume</h1>
               </a>
             </div>
             <div className="right">
