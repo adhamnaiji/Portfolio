@@ -106,12 +106,12 @@ export default function Footer() {
                 path: 'https://www.facebook.com/adham.naiji.3/',
               },
               {
-                title: 'Instagram',
-                path: 'https://www.instagram.com/ad_ham2018/',
-              },
-              {
                 title: 'LinkedIn',
                 path: 'https://www.linkedin.com/in/adham-naiji-7b2384202/',
+              },
+              {
+                title: 'Github',
+                path: 'https://github.com/adhamnaiji',
               },
             ]}
           />
@@ -119,7 +119,7 @@ export default function Footer() {
       </div>
       <div className="copyright">
         <div className="container">
-          <PText>© 2022 - Adham Naiji</PText>
+          <PText>© 2023 - Adham Naiji</PText>
         </div>
       </div>
     </FooterStyle>

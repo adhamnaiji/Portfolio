@@ -184,11 +184,11 @@ export default function HeroSection() {
                 </li>
                 <li>
                   <a
-                    href="https://www.instagram.com/ad_ham2018/"
+                    href="https://github.com/adhamnaiji"
                     target="_blank"
                     rel="noreferrer"
                   >
-                    IG
+                    G.H
                   </a>
                 </li>
                 <li>
